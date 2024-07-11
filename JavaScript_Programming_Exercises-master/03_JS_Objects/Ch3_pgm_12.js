@@ -19,8 +19,7 @@ var post2 = {
 	body : "You will not believe where I just woke up!! Only on a comet..."
 };
 
-console.log(
-	post2)
+console.log(post2)
 /* Further Adventures
  *
  * 1) Display some of the properties.

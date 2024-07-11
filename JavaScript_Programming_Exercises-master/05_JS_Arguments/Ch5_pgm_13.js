@@ -35,6 +35,10 @@ showPlayerInfo("Kandra", "The Dungeon of Doom", 50);
 showPlayerInfo("Dax", "The Old Library", 40);
 
 
+showline = function(){
+    console.log("--------------------------------");
+}
+showline();
 
 /* Further Adventures
  *

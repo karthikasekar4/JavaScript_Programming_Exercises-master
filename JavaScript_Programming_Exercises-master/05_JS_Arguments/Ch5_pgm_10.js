@@ -6,7 +6,7 @@ var player2;
 var showPlayerHealth;
 
 showPlayerHealth = function (playerName, playerHealth, playerHealthMultiplier ) {
-    console.log(playerName + " has health " + playerHealth * player.HealthMultiplier);
+    console.log(playerName + " has health " + playerHealth * playerHealthMultiplier);
 };
 
 player1 = {
