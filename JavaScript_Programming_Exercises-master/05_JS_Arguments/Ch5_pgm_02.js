@@ -2,7 +2,7 @@
 
 var msg;
 var showMessage;
-
+var showMessage1;
 msg = "It's full of stars!";
 
 showMessage = function () {

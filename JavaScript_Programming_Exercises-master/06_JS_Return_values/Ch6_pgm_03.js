@@ -3,7 +3,9 @@
 var getHelloTo;
 
 getHelloTo = function (name) {
-    return "Hello to " + name;
+    return "Hello to {{name}} " + name;
+    return template;
+    var template = template.replace("{{name}}", hhhhhh);
 };
 
 console.log(getHelloTo("Kandra"));
